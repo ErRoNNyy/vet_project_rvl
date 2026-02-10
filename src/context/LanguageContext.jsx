@@ -232,14 +232,12 @@ const translations = {
       contacts: 'Contacts',
       proposals: 'Proposals',
     },
-    // Hero Section
     hero: {
       title: 'Republican Veterinary Laboratory',
       subtitle: 'Leading institution in veterinary diagnostics and expertise of the Republic of Kazakhstan',
       cta: 'Learn More',
       contact: 'Contact Us',
     },
-    // About Section
     about: {
       title: 'About the Laboratory',
       description: 'The Republican Veterinary Laboratory is the leading state institution of the Republic of Kazakhstan in the field of veterinary diagnostics, expertise, and research.',
@@ -250,7 +248,6 @@ const translations = {
       values: 'Our Values',
       valuesText: 'Accuracy, quality, integrity, and professionalism.',
     },
-    // Services Section
     services: {
       title: 'Our Services',
       subtitle: 'Range of services we provide',
@@ -263,14 +260,12 @@ const translations = {
       consultation: 'Consultation Services',
       consultationDesc: 'Professional advice on veterinary matters.',
     },
-    // News Section
     news: {
       title: 'News',
       subtitle: 'Latest news and events',
       readMore: 'Read More',
       allNews: 'All News',
     },
-    // Contact Section
     contact: {
       title: 'Contacts',
       subtitle: 'Get in touch with us',
@@ -287,7 +282,6 @@ const translations = {
         send: 'Send',
       },
     },
-    // Footer
     footer: {
       rights: 'All rights reserved',
       privacy: 'Privacy Policy',
@@ -297,28 +291,24 @@ const translations = {
       usefulLinks: 'Useful Links',
       followUs: 'Follow Us',
     },
-    // Common
     common: {
       learnMore: 'Learn More',
       viewAll: 'View All',
       search: 'Search',
       loading: 'Loading...',
     },
-    // Structure Page
     structure: {
       title: 'Organizational Structure',
       subtitle: 'Laboratory management structure',
       leadership: 'Leadership',
       departments: 'Departments',
     },
-    // Training Center
     training: {
       title: 'Training and Methodology Center',
       subtitle: 'Professional development and advanced training',
       courses: 'Courses',
       programs: 'Programs',
     },
-    // Documents
     documents: {
       title: 'Documents and Regulations',
       subtitle: 'Official documents and legislation',
@@ -326,14 +316,12 @@ const translations = {
       regulations: 'Regulations',
       standards: 'Standards',
     },
-    // Anti-corruption
     anticorruption: {
       title: 'Anti-corruption Activities',
       subtitle: 'Transparency and accountability',
       hotline: 'Hotline',
       report: 'Report',
     },
-    // Proposals
     proposals: {
       title: 'Proposals',
       subtitle: 'Suggestions for website improvement',
